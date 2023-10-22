@@ -1,2 +1,2 @@
-# fross
-i'm 17 , i'm new to the  coding field  i want to learn python and c++ languages
+# Yassine Thlija
+Your 20 y.o CS student, who loves Python and Nvim
